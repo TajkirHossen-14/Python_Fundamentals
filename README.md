@@ -1,6 +1,6 @@
 # 🐍 Python Practice Problems
 
-Beginner Python practice – basics, data types and data structures.
+A beginner-friendly collection of Python fundamentals.
 
 ---
 
