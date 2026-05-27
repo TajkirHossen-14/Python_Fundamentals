@@ -1,6 +1,11 @@
-# 🐍 Python Practice Problems
+<div align="center">
+<p align="center">
+  <img src="Banner/PF Banner.png" alt="Python Fundamentals Banner" width="100%">
+</p>
 
 A beginner-friendly collection of Python fundamentals.
+
+</div>
 
 ---
 
