@@ -3,7 +3,7 @@
   <img src="Banner/PF Banner.png" alt="Python Fundamentals Banner" width="100%">
 </p>
 
-A beginner-friendly collection of Python fundamentals.
+–·–·–
 
 </div>
 
